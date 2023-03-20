@@ -17,9 +17,9 @@ future research in this domain.
 
 
 
+## 1. NLP Tools
 
-
-## 1. Machine Translation (MT)
+## 2. Machine Translation (MT)
 
 ### 1.1 English centeric
   - [Parallel Corpora Preparation for English-Amharic Machine Translation](https://link.springer.com/chapter/10.1007/978-3-030-85030-2_37)
@@ -49,3 +49,20 @@ future research in this domain.
 ### 1.3 Multilingual
   - [Low resource neural machine translation: A benchmark for five african languages](https://arxiv.org/abs/2003.14402)
   - [WebCrawl African : A Multilingual Parallel Corpora for African Languages](https://aclanthology.org/2022.wmt-1.105/)
+  
+  
+# 3. POS Tagging
+
+# 4. Question Classification and Answering
+
+# 5. Named Entity Recognition (NER)
+
+# 6. Text Classification
+
+## 6.1 Hate Speech Detection
+
+## 6.2 Sentiment Analysis
+
+## 6.3 News Classification
+
+# 7. Text Summarization
