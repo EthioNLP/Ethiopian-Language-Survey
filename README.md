@@ -8,7 +8,7 @@ we identify key challenges and opportunities
 for NLP research in Ethiopia. Furthermore, we
 provide a centralized repository on GitHub that
 contains publicly available resources for vari-
-ous NLP tasks in these languages. This reposi-
+ous NLP tasks in these languages. This reposi
 tory can be updated periodically with contribu-
 tions from other researchers. Our objective is to
 disseminate information to NLP researchers in-
@@ -19,7 +19,8 @@ future research in this domain.
 
 ## 1. NLP Tools
 
-## 2. Machine Translation (MT)
+## 2. NLP Applications
+### 2.1. Machine Translation (MT)
 
 ### 1.1 English centeric
   - [Parallel Corpora Preparation for English-Amharic Machine Translation](https://link.springer.com/chapter/10.1007/978-3-030-85030-2_37)
@@ -41,23 +42,23 @@ future research in this domain.
   - [Low-Resource Neural Machine Translation Improvement Using Source-Side Monolingual Data](https://www.mdpi.com/2076-3417/13/2/1201)
   - [English-Ethiopian Languages Statistical Machine Translation](https://aclanthology.org/W19-3611/)
 
-### 1.2 Local to Local
+#### 1.2 Local to Local
   - [Amharic-Awngi Machine Translation: An Experiment Using Statistical Approach](https://www.ijcseonline.org/pdf_paper_view.php?paper_id=4779&2-IJCSE%2007603.pdf)
   - [Experimenting Statistical Machine Translation for Ethiopic Semitic Languages: The Case of Amharic-Tigrign](https://link.springer.com/chapter/10.1007/978-3-319-95153-9_13)
   - [Context based machine translation with recurrent neural network for English--Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
 
-### 1.3 Multilingual
+#### 1.3 Multilingual
   - [Low resource neural machine translation: A benchmark for five african languages](https://arxiv.org/abs/2003.14402)
   - [WebCrawl African : A Multilingual Parallel Corpora for African Languages](https://aclanthology.org/2022.wmt-1.105/)
   
   
-# 3. POS Tagging
+## 2.2. POS Tagging
 
-# 4. Question Classification and Answering
+## 2.3. Question Classification and Answering
 
-# 5. Named Entity Recognition (NER)
+## 2.4. Named Entity Recognition (NER)
 
-# 6. Text Classification
+## 6. Text Classification
 
 ## 6.1 Hate Speech Detection
 
@@ -65,4 +66,4 @@ future research in this domain.
 
 ## 6.3 News Classification
 
-# 7. Text Summarization
+## 6.4. Text Summarization
