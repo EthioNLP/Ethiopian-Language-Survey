@@ -22,7 +22,7 @@ future research in this domain.
 ## 2. NLP Applications
 ### 2.1. Machine Translation (MT)
 
-### 1.1 English centeric
+### 2.1.1 English centeric
   - [Parallel Corpora Preparation for English-Amharic Machine Translation](https://link.springer.com/chapter/10.1007/978-3-030-85030-2_37)
   - [Extended Parallel Corpus for Amharic-English Machine Translation](https://arxiv.org/abs/2104.03543)
   - [Context based machine translation with recurrent neural network for English–Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
@@ -42,12 +42,12 @@ future research in this domain.
   - [Low-Resource Neural Machine Translation Improvement Using Source-Side Monolingual Data](https://www.mdpi.com/2076-3417/13/2/1201)
   - [English-Ethiopian Languages Statistical Machine Translation](https://aclanthology.org/W19-3611/)
 
-#### 1.2 Local to Local
+#### 2.1.2 Local to Local
   - [Amharic-Awngi Machine Translation: An Experiment Using Statistical Approach](https://www.ijcseonline.org/pdf_paper_view.php?paper_id=4779&2-IJCSE%2007603.pdf)
   - [Experimenting Statistical Machine Translation for Ethiopic Semitic Languages: The Case of Amharic-Tigrign](https://link.springer.com/chapter/10.1007/978-3-319-95153-9_13)
   - [Context based machine translation with recurrent neural network for English--Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
 
-#### 1.3 Multilingual
+#### 2.1.3 Multilingual
   - [Low resource neural machine translation: A benchmark for five african languages](https://arxiv.org/abs/2003.14402)
   - [WebCrawl African : A Multilingual Parallel Corpora for African Languages](https://aclanthology.org/2022.wmt-1.105/)
   
