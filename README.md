@@ -19,6 +19,10 @@ future research in this domain.
 ## 1. NLP Tools
 |Tools Name|Tools task |Language support|Resource link|
 |----------|-----------|----------------|-------------|
+|amseg     | Segmenter, tokenizer|.     |             |
+|          | transliteration,romanization and normalization |        |       |
+|          |.            |               |            |
+
 
 ## 2. NLP Applications
 ### 2.1. Machine Translation (MT)
