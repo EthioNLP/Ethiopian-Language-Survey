@@ -20,7 +20,7 @@ future research in this domain.
 
 ## 2. NLP Applications
 ### 2.1. Machine Translation (MT)
-
+We discuss the MT progress for Ethiopian languages in three categories: **English Centeric-** works done for the above target Ethiopian languages with English pair, **Ethiopian - Ethiopian -**}} works done for Ethiopian language pairs without involving other languages  and **Multilingual MT -** works done for Ethiopian languages with other languages in a multilingual setting.
 #### 2.1.1 English centeric
   - [Parallel Corpora Preparation for English-Amharic Machine Translation](https://link.springer.com/chapter/10.1007/978-3-030-85030-2_37)
   - [Extended Parallel Corpus for Amharic-English Machine Translation](https://arxiv.org/abs/2104.03543)
