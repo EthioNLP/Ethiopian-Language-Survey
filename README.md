@@ -1,17 +1,11 @@
 # Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities
 
-This survey delves into the current state of
-natural language processing (NLP) for four
-Ethiopian languages: Amharic, Afaan Oromo,
-Tigrinya, and Wolaytta. Through this paper,
-we identify key challenges and opportunities
-for NLP research in Ethiopia. Furthermore, we
-provide a centralized repository on GitHub that
-contains publicly available resources for vari-
-ous NLP tasks in these languages. This reposi
+This survey delves into the current state of natural language processing (NLP) for four
+Ethiopian languages: Amharic, Afaan Oromo, Tigrinya, and Wolaytta. Through this paper, we identify key challenges and opportunities
+for NLP research in Ethiopia. Furthermore, we provide a centralized repository on GitHub that
+contains publicly available resources for various NLP tasks in these languages. This reposi
 tory can be updated periodically with contributions from other researchers. Our objective is to
-disseminate information to NLP researchers in-
-terested in Ethiopian languages and encourage
+disseminate information to NLP researchers interested in Ethiopian languages and encourage
 future research in this domain.
 
 
