@@ -63,12 +63,12 @@ future research in this domain.
 
 ## 2.4. Named Entity Recognition (NER)
 
-## 3. Text Classification
+## 2.5. Text Classification
 
-## 3.1 Hate Speech Detection
+### 2.5.1 Hate Speech Detection
 
-## 3.2 Sentiment Analysis
+### 2.5.2 Sentiment Analysis
 
-## 3.3 News Classification
+### 2.5..3 News Classification
 
-## 3.4. Text Summarization
+### 2.5.4. Text Summarization
