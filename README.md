@@ -18,6 +18,7 @@ future research in this domain.
 
 ## 1. NLP Tools
 |Tools Name|Tools task |Language support|Resource link|
+|----------|-----------|----------------|-------------|
 
 ## 2. NLP Applications
 ### 2.1. Machine Translation (MT)
