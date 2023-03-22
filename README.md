@@ -29,7 +29,7 @@ future research in this domain.
   - [The Effect of Normalization for Bi-directional Amharic-English Neural Machine Translation](https://arxiv.org/abs/2210.15224)
   - [Optimal Alignment for Bi-directional Afaan Oromo-English Statistical Machine Translation](http://etd.aau.edu.et/handle/123456789/14063)
   - [English-Afaan Oromo Statistical Machine Translation](https://www.semanticscholar.org/paper/English-Afaan-Oromo-Statistical-Machine-Translation-Solomon/44619213bb56d6385383ab3d914ca2e5296b8e00)
-  - [English — Oromo Machine Translation: An Experiment Using a Statistical Approach](https://aclanthology.org/L10-1470/)
+  - [English-Oromo Machine Translation: An Experiment Using a Statistical Approach](https://aclanthology.org/L10-1470/)
   - [Crowdsourcing Parallel Corpus for English-Oromo Neural Machine Translation using Community Engagement Platform](https://arxiv.org/abs/2102.07539)
   - [Machine Learning Approach to English-Afaan Oromo Text-Text Translation: Using Attention based Neural Machine Translation](https://ieeexplore.ieee.org/document/9711807)
   - [The effect of shallow segmentation on English-Tigrinya statistical machine translation](https://ieeexplore.ieee.org/document/7875939)
@@ -44,7 +44,7 @@ future research in this domain.
 #### 2.1.2 Local to Local
   - [Amharic-Awngi Machine Translation: An Experiment Using Statistical Approach](https://www.ijcseonline.org/pdf_paper_view.php?paper_id=4779&2-IJCSE%2007603.pdf)
   - [Experimenting Statistical Machine Translation for Ethiopic Semitic Languages: The Case of Amharic-Tigrign](https://link.springer.com/chapter/10.1007/978-3-319-95153-9_13)
-  - [Context based machine translation with recurrent neural network for English--Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
+  - [Context based machine translation with recurrent neural network for English-Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
 
 #### 2.1.3 Multilingual
   - [Low resource neural machine translation: A benchmark for five african languages](https://arxiv.org/abs/2003.14402)
