@@ -27,7 +27,7 @@ future research in this domain.
 ## 2. NLP Applications
 ### 2.1. Machine Translation (MT)
 
-### 2.1.1 English centeric
+#### 2.1.1 English centeric
   - [Parallel Corpora Preparation for English-Amharic Machine Translation](https://link.springer.com/chapter/10.1007/978-3-030-85030-2_37)
   - [Extended Parallel Corpus for Amharic-English Machine Translation](https://arxiv.org/abs/2104.03543)
   - [Context based machine translation with recurrent neural network for English–Amharic translation](https://link.springer.com/article/10.1007/s10590-021-09262-4)
@@ -65,10 +65,10 @@ future research in this domain.
 
 ## 2.5. Text Classification
 
-### 2.5.1 Hate Speech Detection
+#### 2.5.1 Hate Speech Detection
 
-### 2.5.2 Sentiment Analysis
+#### 2.5.2 Sentiment Analysis
 
-### 2.5..3 News Classification
+#### 2.5..3 News Classification
 
-### 2.5.4. Text Summarization
+#### 2.5.4. Text Summarization
