@@ -9,8 +9,7 @@ for NLP research in Ethiopia. Furthermore, we
 provide a centralized repository on GitHub that
 contains publicly available resources for vari-
 ous NLP tasks in these languages. This reposi
-tory can be updated periodically with contribu-
-tions from other researchers. Our objective is to
+tory can be updated periodically with contributions from other researchers. Our objective is to
 disseminate information to NLP researchers in-
 terested in Ethiopian languages and encourage
 future research in this domain.
