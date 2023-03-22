@@ -13,9 +13,9 @@ future research in this domain.
 ## 1. NLP Tools
 |Tools Name|Tools task |Language support|Resource link|
 |----------|-----------|----------------|-------------|
-|amseg     | Segmenter, tokenizer, transliteration, romanization and normalization| Amharic    | https://pypi.org/project/amseg/ |
-|HornMorpho| Morphological analysis|   Amhric, Afaan Ormo, Tigirgna              |https://github.com/hltdi/HornMorpho      |
-|lemma     |   Lemmatizer     |   Amhric      |https://universaldependencies.org|
+|amseg     | Segmenter, tokenizer, transliteration, romanization and normalization| Amharic    | [amseg](https://pypi.org/project/amseg/) |
+|HornMorpho| Morphological analysis|   Amhric, Afaan Ormo, Tigirgna              |[HornMorpho](https://github.com/hltdi/HornMorpho)      |
+|lemma     |   Lemmatizer     |   Amhric      |[lemma](https://universaldependencies.org)|
 
 
 ## 2. NLP Applications
