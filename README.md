@@ -53,6 +53,15 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
   
 ## 2.2. POS Tagging
 
+- [Part of Speech tagging for Amharic using Conditional Random Fields](https://aclanthology.org/W05-0707.pdf)
+- [Methods for Amharic Part-of-Speech Tagging](https://www.diva-portal.org/smash/get/diva2:1042595/FULLTEXT01.pdf)
+- [Amharic Part-of-Speech Tagger for Factored Language Modeling](https://aclanthology.org/R09-1077.pdf)
+- [Part of speech tagging for Amharic](https://pure.mpg.de/rest/items/item_1448968/component/file_1448967/content)
+- [POS Tagging for Amharic Text: A Machine Learning Approach](https://infocomp.dcc.ufla.br/index.php/infocomp)
+- [Part-of-speech tagging for underresourced and morphologically rich languages—the case of Amharic](https://hal.univ-grenoble-alpes.fr/hal-00959156/)
+- [Parts of Speech Tagging for Afaan Oromo](https://thesai.org/Publications/IJACSA)
+- [Tigrinya Part-of-Speech Tagging with Morphological Patterns and the New Nagaoka Tigrinya Corpus]([https://thesai.org/Publications/IJACSA](https://www.researchgate.net/profile/Kazuhide-Yamamoto/publication/305362037_Tigrinya_Part-of-Speech_Tagging_with_Morphological_Patterns_and_the_New_Nagaoka_Tigrinya_Corpus))
+- [Part of Speech Tagging for Wolaita Language using Transformation Based Learning (TBL) Approach](https://www.researchgate.net/profile/Birhanesh-Fikre/publication/345243262_Part_of_Speech_Tagging_for_Wolaita_Language_using_Transformation_based_Learning_TBL_Approach)
 - [A comparative study on different techniques for thai part-of-speech tagging](https://ieeexplore.ieee.org/document/6559527)
 - [Machine Learning Approaches for Amharic Parts-of-speech Tagging](https://arxiv.org/pdf/2001.03324.pdf)
 - [Towards improving Brill’s tagger lexical and transformation rule for Afaan Oromo language](https://www.researchgate.net/publication/308788342_Improving_Brill's_tagger_lexical_and_transformation_rule_for_Afaan_Oromo_language)
@@ -60,7 +69,7 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 - [Introducing various Semantic Models for Amharic: Experimentation and Evaluation with multiple Tasks and Datasets](https://arxiv.org/abs/2011.01154)
 
 ## 2.3. Question Classification and Answering
-
+- [Question Classification in Amharic Question Answering System: Machine Learning Approach](https://www.proquest.com/openview/a3d9011a2ef22c6dbd7133b306ddcfac/1?pq-origsite=gscholar&cbl=2028729)
 - [Amharic Question Classification System Using Deep Learning Approach](http://etd.aau.edu.et/handle/123456789/27559)
 - [Amharic Question Answering for Biography, Definition, and Description Questions](https://aclanthology.org/W19-3635/)
 - [TETEYEQ: Amharic Question Answering For Factoid Questions](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam/yimam-ms-thesis.pdf)
@@ -68,7 +77,17 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 
 
 ## 2.4. Named Entity Recognition (NER)
-
+- [MasakhaNER: Named Entity Recognition for African Languages]([http://etd.aau.edu.et/handle/123456789/14581](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African))
+- [Amharic Named Entity Recognition Using A Hybrid Approach](http://etd.aau.edu.et/handle/123456789/14581)
+- [Named entity recognition for Amharic using deep learning](https://ieeexplore.ieee.org/abstract/document/8102402/)
+- [Named Entity Recognition for Amharic Using Stack-Based Deep Learning](https://link.springer.com/chapter/10.1007/978-3-319-77113-7_22)
+- [ANEC: An Amharic Named Entity Corpus and Transformer Based Recognizer](https://ieeexplore.ieee.org/abstract/document/10040676)
+- [Named Entity Recognition for Afan Oromo](http://etd.aau.edu.et/handle/123456789/2440)
+- [Afaan Oromo Named Entity Recognition Using Hybrid Approach](http://etd.aau.edu.et/handle/123456789/547)
+- [Boosting Afaan Oromo Named Entity Recognition with Multiple Methods](https://mecs-press.net/ijieeb/ijieeb-v13-n5/IJIEEB-V13-N5-5.pdf)
+- [Afan-Oromo Named Entity Recognition Using Bidirectional RNN](https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2022/Issue-16/IJST-2021-123.pdf)
+- [Named-entity recognition for a low-resource language using pre-trained language model](https://dl.acm.org/doi/abs/10.1145/3477314.3507066)
+- [A method of named entity recognition for Tigrinya](https://dl.acm.org/doi/abs/10.1145/3570733.3570737)
 - [Named entity recognition for Amharic language](http://etd.aau.edu.et/handle/123456789/2741)
 - [A named entity recognition for Amharic](http://etd.aau.edu.et/bitstream/handle/123456789/14502/Besufikad%20Alemu.pdf?sequence=1&isAllowed=y)
 ## 2.5. Text Classification
