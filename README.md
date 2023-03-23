@@ -77,7 +77,7 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 
 
 ## 2.4. Named Entity Recognition (NER)
-- [MasakhaNER: Named Entity Recognition for African Languages]([http://etd.aau.edu.et/handle/123456789/14581](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African))
+- [MasakhaNER: Named Entity Recognition for African Languages]([http://etd.aau.edu.et/handle/123456789/14581](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African)
 - [Amharic Named Entity Recognition Using A Hybrid Approach](http://etd.aau.edu.et/handle/123456789/14581)
 - [Named entity recognition for Amharic using deep learning](https://ieeexplore.ieee.org/abstract/document/8102402/)
 - [Named Entity Recognition for Amharic Using Stack-Based Deep Learning](https://link.springer.com/chapter/10.1007/978-3-319-77113-7_22)
