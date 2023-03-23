@@ -61,6 +61,12 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 
 ## 2.3. Question Classification and Answering
 
+- [Amharic Question Classification System Using Deep Learning Approach](http://etd.aau.edu.et/handle/123456789/27559)
+- [Amharic Question Answering for Biography, Definition, and Description Questions](https://aclanthology.org/W19-3635/)
+- [TETEYEQ: Amharic Question Answering For Factoid Questions](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam/yimam-ms-thesis.pdf)
+- [Question Answering Classification for Amharic Social Media Community Based Questions](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-belayetal-sigullrec2022.pdf)
+
+
 ## 2.4. Named Entity Recognition (NER)
 
 - [Named entity recognition for Amharic language](http://etd.aau.edu.et/handle/123456789/2741)
