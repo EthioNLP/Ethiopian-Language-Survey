@@ -53,10 +53,18 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
   
 ## 2.2. POS Tagging
 
+- [A comparative study on different techniques for thai part-of-speech tagging](https://ieeexplore.ieee.org/document/6559527)
+- [Machine Learning Approaches for Amharic Parts-of-speech Tagging](https://arxiv.org/pdf/2001.03324.pdf)
+- [Towards improving Brill’s tagger lexical and transformation rule for Afaan Oromo language](https://www.researchgate.net/publication/308788342_Improving_Brill's_tagger_lexical_and_transformation_rule_for_Afaan_Oromo_language)
+- [Deep learning-based part-of-speech tagging of the Tigrinya language](https://link.springer.com/chapter/10.1007/978-3-030-59506-7_29)
+- [Introducing various Semantic Models for Amharic: Experimentation and Evaluation with multiple Tasks and Datasets](https://arxiv.org/abs/2011.01154)
+
 ## 2.3. Question Classification and Answering
 
 ## 2.4. Named Entity Recognition (NER)
 
+- [Named entity recognition for Amharic language](http://etd.aau.edu.et/handle/123456789/2741)
+- [A named entity recognition for Amharic](http://etd.aau.edu.et/bitstream/handle/123456789/14502/Besufikad%20Alemu.pdf?sequence=1&isAllowed=y)
 ## 2.5. Text Classification
 
 #### 2.5.1 Hate Speech Detection
