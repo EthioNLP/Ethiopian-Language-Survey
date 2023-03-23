@@ -60,7 +60,7 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 - [POS Tagging for Amharic Text: A Machine Learning Approach](https://infocomp.dcc.ufla.br/index.php/infocomp)
 - [Part-of-speech tagging for underresourced and morphologically rich languages—the case of Amharic](https://hal.univ-grenoble-alpes.fr/hal-00959156/)
 - [Parts of Speech Tagging for Afaan Oromo](https://thesai.org/Publications/IJACSA)
-- [Tigrinya Part-of-Speech Tagging with Morphological Patterns and the New Nagaoka Tigrinya Corpus]([https://thesai.org/Publications/IJACSA](https://www.researchgate.net/profile/Kazuhide-Yamamoto/publication/305362037_Tigrinya_Part-of-Speech_Tagging_with_Morphological_Patterns_and_the_New_Nagaoka_Tigrinya_Corpus))
+- [Tigrinya Part-of-Speech Tagging with Morphological Patterns and the New Nagaoka Tigrinya Corpus](https://www.researchgate.net/profile/Kazuhide-Yamamoto/publication/305362037_Tigrinya_Part-of-Speech_Tagging_with_Morphological_Patterns_and_the_New_Nagaoka_Tigrinya_Corpus))
 - [Part of Speech Tagging for Wolaita Language using Transformation Based Learning (TBL) Approach](https://www.researchgate.net/profile/Birhanesh-Fikre/publication/345243262_Part_of_Speech_Tagging_for_Wolaita_Language_using_Transformation_based_Learning_TBL_Approach)
 - [A comparative study on different techniques for thai part-of-speech tagging](https://ieeexplore.ieee.org/document/6559527)
 - [Machine Learning Approaches for Amharic Parts-of-speech Tagging](https://arxiv.org/pdf/2001.03324.pdf)
