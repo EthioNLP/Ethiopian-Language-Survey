@@ -94,6 +94,12 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 
 #### 2.5.1 Hate Speech Detection
 
+- [Social Network Hate Speech Detection for Amharic Language](https://airccj.org/CSCP/vol8/csit88604.pdf)
+- [Vulnerable community identification using hate speech detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0306457318310902)
+- [Multi-channel convolutional neural network for hate speech detection in social media](https://link.springer.com/chapter/10.1007/978-3-030-93709-6_41)
+- [Amharic text hate speech detection in social media using deep learning approach](https://ir.bdu.edu.et/handle/123456789/12723)
+- [The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform](https://ieeexplore.ieee.org/document/9971189)
+
 #### 2.5.2 Sentiment Analysis
 
 #### 2.5..3 News Classification
