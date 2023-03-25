@@ -100,8 +100,27 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 - [Amharic text hate speech detection in social media using deep learning approach](https://ir.bdu.edu.et/handle/123456789/12723)
 - [The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform](https://ieeexplore.ieee.org/document/9971189)
 
+- [Afaan Oromo Hate Speech Detection and Classification on Social Media](https://aclanthology.org/2022.lrec-1.712/)
+- [Detection of hate speech text in afan oromo social media using machine learning approach](https://indjst.org/articles/detection-of-hate-speech-text-in-afan-oromo-social-media-using-machine-learning-approach)
+- [Automatic Hate and Offensive speech detection framework from social media: the case of Afaan Oromoo language](https://ieeexplore.ieee.org/document/9672232)
+- [Hate Speech Detection from Facebook Social Media Posts and Comments in Tigrigna language](http://repository.smuc.edu.et/handle/123456789/6929)
+
+
 #### 2.5.2 Sentiment Analysis
+
+- [Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models](https://aclanthology.org/2020.coling-main.91/)
+- [Comparative Analysis of Deep Learning Models for Aspect Level Amharic News Sentiment Analysis](https://ieeexplore.ieee.org/document/9765172)
+- [Sentiment Analysis of Afaan Oromo using Machine learning Approach](http://ijrsset.org/pdfs/v7-i9/2.pdf)
+- [Sentiment analysis of Afaan Oromoo facebook media using deep learning approach](https://www.iiste.org/Journals/index.php/NMMC/article/view/52606)
+- [Multi-Class Sentiment Analysis from Afaan Oromo Text Based On Supervised Machine Learning Approaches](http://ijrsset.org/pdfs/v7-i7/3.pdf)
+- [Sentiment Analysis for Low-Resource Language: The Case of Tigrinya](https://erepo.uef.fi/bitstream/handle/123456789/23169/urn_nbn_fi_uef-20201000.pdf?sequence=-1&isAllowed=y)
 
 #### 2.5..3 News Classification
 
+- [An Amharic News Text classification Dataset](https://arxiv.org/abs/2103.05639)
+- [Text Classification Based on Convolutional Neural Networks and Word Embedding for Low-Resource Languages: Tigrinya](https://www.mdpi.com/2078-2489/12/2/52)
+
+
 #### 2.5.4. Text Summarization
+
+- [XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages](https://arxiv.org/abs/2106.13822)
