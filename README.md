@@ -1,4 +1,4 @@
-# Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities
+# Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities - [arxiv](https://arxiv.org/abs/2303.14406)
 
 This survey delves into the current state of natural language processing (NLP) for four
 Ethiopian languages: Amharic, Afaan Oromo, Tigrinya, and Wolaytta. Through this paper, we identify key challenges and opportunities
