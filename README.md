@@ -119,6 +119,7 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 
 - [An Amharic News Text classification Dataset](https://arxiv.org/abs/2103.05639)
 - [Text Classification Based on Convolutional Neural Networks and Word Embedding for Low-Resource Languages: Tigrinya](https://www.mdpi.com/2078-2489/12/2/52)
+- [MasakhaNEWS: News Topic Classification for African languages](https://arxiv.org/abs/2304.09972)
 
 
 #### 2.5.4. Text Summarization
