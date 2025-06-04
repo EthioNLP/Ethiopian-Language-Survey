@@ -125,3 +125,23 @@ We discuss the MT progress for Ethiopian languages in three categories: **Englis
 #### 2.5.4. Text Summarization
 
 - [XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages](https://arxiv.org/abs/2106.13822)
+
+## Citation
+
+If this work helps with your research, please cite the paper as:
+
+```bibtex
+@inproceedings{tonja-etal-2023-natural,
+    title = "Natural Language Processing in {E}thiopian Languages: Current State, Challenges, and Opportunities",
+    author = "Tonja, Atnafu Lambebo  and Belay, Tadesse Destaw  and Azime, Israel Abebe  and Ayele, Abinew Ali  and Mehamed, Moges Ahmed  and Kolesnikova, Olga  and Yimam, Seid Muhie",
+    booktitle = "Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.rail-1.14/",
+    doi = "10.18653/v1/2023.rail-1.14",
+    pages = "126--139"
+}
+```
+
